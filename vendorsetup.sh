@@ -1,1 +1,1 @@
-add_lunch_combo lineage_hydrogen-userdebug
+add_lunch_combo xenonhd_hydrogen-userdebug
