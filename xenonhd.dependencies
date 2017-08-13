@@ -1,0 +1,26 @@
+[
+  {
+    "repository": "TeamHorizon/android_kernel_msm8956",
+    "target_path": "kernel/xiaomi/msm8956",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "TeamHorizon/proprietary_vendor_xiaomi-MIMAX",
+    "target_path": "vendor/xiaomi",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "TeamHorizon/android_device_xiaomi_hydrogen",
+    "target_path": "device/xiaomi/hydrogen",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "TeamHorizon/android_device_xiaomi_helium",
+    "target_path": "device/xiaomi/helium",
+    "branch": "cm-14.1"
+  },
+  { "repository": "TeamHorizon/android_device_msm8956-common-MIMAX",
+    "target_path": "device/xiaomi/msm8956-common",
+    "branch": "cm-14.1"     
+  }
+]
